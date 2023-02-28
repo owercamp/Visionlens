@@ -2,6 +2,8 @@
 
 # VisionLens
 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/owercamp/Visionlens) ![GitHub repo file count](https://img.shields.io/github/directory-file-count/owercamp/Visionlens?color=green) ![GitHub top language](https://img.shields.io/github/languages/top/owercamp/Visionlens?color=yellowgreen) ![GitHub language count](https://img.shields.io/github/languages/count/owercamp/Visionlens?color=orange) ![GitHub Sponsors](https://img.shields.io/github/sponsors/owercamp) ![GitHub issues](https://img.shields.io/github/issues/owercamp/Visionlens) ![GitHub closed issues](https://img.shields.io/github/issues-closed/owercamp/Visionlens) ![GitHub](https://img.shields.io/github/license/owercamp/Visionlens) ![GitHub package.json version](https://img.shields.io/github/package-json/v/owercamp/Visionlens) ![GitHub last commit](https://img.shields.io/github/last-commit/owercamp/Visionlens)
+
 ### Descripción
 
 VisionLens es un proyecto de software para la gestión de ventas y fórmulas médicas. Esta aplicación es ideal para farmacias y establecimientos de salud que deseen llevar un control de sus ventas y de las fórmulas que entregan a sus clientes.
